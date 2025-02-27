@@ -1,0 +1,60 @@
+<body>
+    <div>
+        <header>
+            <hgroup>
+                <h1>Calmaria</h1>
+                <h2>Respira fica calmo o calmaria está na área</h2>
+            </hgroup>
+       
+    </header>
+    <section> 
+        <div >
+            <h1>Calmaria F.S V.J</h1>
+            <p>O Calmaria F.S é um time de futsal, criado pelos jovens Allan Araújo Mariano, Crisnalbert Murilo e Renan Augusto da comunidade Vila Júlia no dia 19/09/2023, eles tiveram essa ideia visando se reunir com seus amigos e colegas por meio do esporte, e de certa forma trazer uma calmaria para seus cotidianos.  Eles começaram do zero, com apenas um sonho, o de mostrar e enaltecer o nome de sua “quebrada” por todos cantos. </p>         
+        </div>
+        <div>
+            <hgroup>
+                <h1>Diretoria</h1>
+                <p>Allan Araújo Mariano</p>                
+                <p> Crisnalbert Murilo </p>
+                <p> Renan Augusto</p>
+            </hgroup>
+            <hgroup id="patro">
+                <h1>Patrocinadores</h1>
+                <p>Açai da nove</p>
+                <img src="patrocinador-acai09.png" alt="">
+                <p>M.R</p>
+                <img src="patrocinador-MR.png" alt="">
+                <p>Seja você também um apoiador desse progeto</p>
+                <img src="sejaapoiador-cal.png" alt="">
+            </hgroup>
+        </div>
+    </section> 
+        <aside id="direita">
+            <img id="logo" src="logo-cal.png" alt="">
+            <hgroup id="uni">
+                <h1>Uniformes</h1>
+                <p>Uniforme 01</p>
+                <img src="uniforme01.png" alt="">
+                <p>Uniforme 02</p>
+                <img src="uniforme02.png" alt="">
+                (video de apresentação dos Uniformes)
+            </hgroup>
+            <hgroup>
+                <h1>Nossos produtos</h1>
+                <p>Camiseta masculina</p>
+                <img src="torcida-masc.png" alt="">
+                <p>Camiseta feminina</p>
+                <img src="torcida-fem.png" alt="">
+            </hgroup>          
+        </aside>
+        <aside id="final">
+        </aside>
+    </div>
+    <footer>
+        <p>Calmaria F.S Vila Julia<br/>
+        <a href="http://facebook.com/CalmariafsVj" target="_blank" >Facebook</a>
+        <a href="http://instagram.com/calmaria_f.s_v.j" target="_blank" >Instagram</a>
+        </p>
+    </footer>
+    Calmaria f.s não poderia de deixar de agradecer os presidentes do time pelo seu trabalho e dedicação de fazer isso tudo acontecer, pelo comprometimento e o trabalho feito dentro o fora de quadra, isso que era apenas um sonho se tornar realidade pois isso é mais que um time mas sim uma família Unida, para o que der e vier isso é o CALMARIA F.S.
